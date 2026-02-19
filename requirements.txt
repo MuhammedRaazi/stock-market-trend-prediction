@@ -2,6 +2,7 @@ numpy
 pandas
 scikit-learn
 streamlit
+pandas-ta
 matplotlib
 yfinance
 altair==4.2.2
