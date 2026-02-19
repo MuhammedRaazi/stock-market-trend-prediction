@@ -7,4 +7,5 @@ matplotlib
 seaborn
 yfinance
 pandas-ta
-altair
+altair==4.2.2
+
