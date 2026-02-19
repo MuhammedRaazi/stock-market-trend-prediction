@@ -1,11 +1,8 @@
 numpy
 pandas
 scikit-learn
-xgboost
 streamlit
 matplotlib
-seaborn
 yfinance
-pandas-ta
 altair==4.2.2
 
