@@ -7,3 +7,4 @@ matplotlib
 seaborn
 yfinance
 pandas-ta
+altair
